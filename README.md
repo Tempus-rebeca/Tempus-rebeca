@@ -4,16 +4,7 @@
 
 <!-- SOBRE MIM -->
 ## 👾 Player One: Rebeca
-> “Não é sobre quantas vezes o jogo reinicia. É sempre sobre apertar Start de novo.” 🧠
 
-🎂 Level: 21  
-🌍 Origem: Rio de Janeiro (atualmente em Abrantes, Portugal)  
-🧠 Classe: Dev Omnívora   
-⚡ Foco: Laravel | .NET | HTML/CSS/Bootstrap  
-🎯 Missão Atual: Top 1 Dev  
-💡 Futuro Unlock: Flutter, Pyhton, Switch, etc...  
-
----
 ## 🧠 Stats
 
 <table align="center" border="0">
@@ -35,11 +26,4 @@
   </tr>
 </table>
 
----
-## 📡 Conecte-se
-  
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebeca.tempus@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noiia_rebeca)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-lima-5167b5227)
-
----  
+--- 
