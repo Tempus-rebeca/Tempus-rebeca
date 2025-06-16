@@ -1,7 +1,7 @@
 <h1 align="center">🕹️ Insert Coin to Start...</h1>
 <h3 align="center">💻 Front-End & Back-End Developer</h3>
 
-### 👾 Player One: Rebeca's Stats
+### 👾 Player One: Rebeca
 
 ---
 
