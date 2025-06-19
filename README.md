@@ -7,11 +7,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tempus-rebeca&layout=compact&theme=blue_navy" alt="Top Langs" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tempus-rebeca&show_icons=true&theme=blue_navy&hide_title=true" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tempus-rebeca&show_icons=true&theme=blue_navy&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tempus-rebeca&theme=blue_navy" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=Tempus-rebeca&theme=blue_navy" alt="GitHub Streak" /> -->
 </p>
 
 --- 
